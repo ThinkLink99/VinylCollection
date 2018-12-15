@@ -1,0 +1,10 @@
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\bin\Debug\VinylCollection.exe.config
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\bin\Debug\VinylCollection.exe
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\bin\Debug\VinylCollection.pdb
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.csprojAssemblyReference.cache
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.Form1.resources
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.Properties.Resources.resources
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.csproj.GenerateResource.cache
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.csproj.CoreCompileInputs.cache
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.exe
+C:\Users\trey\Documents\Visual Studio 2017\Projects\VinylCollection\VinylCollection\obj\Debug\VinylCollection.pdb
